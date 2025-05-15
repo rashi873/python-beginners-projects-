@@ -1,2 +1,2 @@
-# pyhtom projects for portfolio
+# python projects for portfolio
 
